@@ -5,7 +5,7 @@ featured: true
 weight: 1
 ---
 
-![fire alarm](/noborderweb/images/istockphoto-1348046400-1024x1024.jpg)
+![fire alarm](/images/istockphoto-1348046400-1024x1024.jpg)
 
 ## Emergency Callout Services in Southeast London
 

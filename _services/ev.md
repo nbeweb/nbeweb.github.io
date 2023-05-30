@@ -34,7 +34,6 @@ From your first call to the moment your charger is ready to use, you can expect 
 ### Get in Touch
 
 Ready to take the next step towards a more sustainable future? Contact Noborder Electrical today for professional domestic EV charger installation. Let us help you make the transition to electric driving smoother and easier.
-<!-- ![Ev charger 2](/images/myenergi-WkqHU1G2_sg-unsplash2.jpg) -->
 
 
 
