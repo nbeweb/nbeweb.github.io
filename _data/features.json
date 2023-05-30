@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/noun-electrician-report-2202989o.png.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Certified Electricians",
+    "description": "All members of our team are registered electricians.",
+    "image": {
+      "url": "images/features/noun-electrician-2158579o.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Code Compliance",
+    "description": "We stay up to date on the latest changes to the building regulations.",
+    "image": {
+      "url": "images/features/noun-power-manual-1053840o.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
