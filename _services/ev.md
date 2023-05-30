@@ -21,7 +21,7 @@ Choosing us for your EV charger installation means choosing a professional, reli
 
 We understand that every home is unique, and so are your charging needs. We offer a range of chargers including slow, fast, and rapid charging units, as well as tethered and untethered models. Our team will work closely with you to identify the best charger based on your EV model, your driving habits, and the electrical capacity of your home.
 
-![EV charger](/noborderweb/images/evc2.jpg "evc2.jpg")
+![EV charger](/images/evc2.jpg "evc2.jpg")
 
 ### Compliance and Safety
 
