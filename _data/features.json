@@ -1,11 +1,11 @@
 [
   {
-    "title": "Free Consultation",
+    "title": "Registered Competent",
     "description": "New clients receive an obligation free consultation.",
     "image": {
       "url": "images/features/rcpe.svg",
-      "width": 80,
-      "height": 80
+      "width": 120,
+      "height": 120
     }
   },
   {
@@ -13,8 +13,8 @@
     "description": "All our electricians are NIC CEIC approved.",
     "image": {
       "url": "images/features/niceic.svg",
-      "width": 80,
-      "height": 80
+      "width": 120,
+      "height": 120
     }
   },
   {
@@ -22,8 +22,8 @@
     "description": "We stay up to date on the latest changes to the building regulations.",
     "image": {
       "url": "images/features/cgl.svg",
-      "width": 80,
-      "height": 80
+      "width": 120,
+      "height": 120
     }
   }
 ]
