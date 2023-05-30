@@ -11,7 +11,7 @@ layout: service
 
 At Noborder Electrical, we're committed to helping you make the transition to cleaner, more sustainable energy. As a part of our comprehensive electrical services, we offer the installation of domestic Electric Vehicle (EV) chargers in London and the surrounding areas.
 
-![EV charger](/images/evc1.jpg "evc1.jpg")
+![EV](/images/evc1.jpg "evc1.jpg")
 
 ### Why Choose Us?
 
@@ -34,7 +34,7 @@ From your first call to the moment your charger is ready to use, you can expect 
 ### Get in Touch
 
 Ready to take the next step towards a more sustainable future? Contact Noborder Electrical today for professional domestic EV charger installation. Let us help you make the transition to electric driving smoother and easier.
-![Ev charger 2](/images/myenergi-WkqHU1G2_sg-unsplash2.jpg)
+<!-- ![Ev charger 2](/images/myenergi-WkqHU1G2_sg-unsplash2.jpg) -->
 
 
 
