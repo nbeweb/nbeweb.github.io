@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Noborder Electrical'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logob.svg"
   mobile_height: "32px"
-  mobile_width: "32px"
+  mobile_width: "128px"
   desktop: "images/logo/logob.svg"
   desktop_height: "40px"
   desktop_width: "200px"
